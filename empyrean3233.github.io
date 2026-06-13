@@ -289,7 +289,7 @@
 // CONFIGURATION — REPLACE THESE
 // ==============================
 const SUPABASE_URL = 'YOUR_SUPABASE_URL';
-const SUPABASE_ANON_KEY = 'YOUR_SUPABASE_ANON_KEY';
+const SUPABASE_ANON_KEY = 'const SUPABASE_ANON_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im1qam9tZmRpa3Z5ZWpoenJ4ZGVnIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODEyNTg2NjYsImV4cCI6MjA5NjgzNDY2Nn0.3NMR2qiHHZJk_PoQRXufDqKu1OXQa4hzvr1Tl7VKy6I';';
 // ==============================
 
 const { createClient } = supabase;
